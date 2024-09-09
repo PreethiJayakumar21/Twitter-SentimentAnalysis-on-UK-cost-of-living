@@ -93,13 +93,10 @@ Comparative performance between models is visualized to showcase which approach 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-uk-cost-of-living.git
+git clone https://github.com/PreethiJayakumar21/Twitter-SentimentAnalysis-on-UK-cost-of-living.git
 ```
-Install the required libraries:
 
-```bash
-pip install -r requirements.txt
-```
+Install the requirements
 
 Download the dataset from Kaggle and place it in the data/ folder.
 
